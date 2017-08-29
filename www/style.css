@@ -1,0 +1,54 @@
+.input{
+  text-align: center;
+  background-color: #900020;
+}
+input{
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  height: 40px;
+}
+.poster{
+  height: 500px;
+  width: 480px;
+  margin-left: 40px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+.title{
+  margin-left: 70px;
+  color: white;
+}
+.back{
+  position: absolute;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.back1{
+  position: relative;
+   overflow: hidden;
+   background-color: rgba(0, 0, 0, 0.5);
+}
+.right{
+  margin-top: 140px;
+}
+.date{
+  margin-top: 30px;
+  font-size: 22px;
+}
+.rate{
+  font-size: 22px;
+}
+.left1, .right1, .back{
+  width: 100%;
+  margin: auto;
+}
+p, h1, h3, h4{
+  color: white;
+}
+.plot{
+  font-size: 30px;
+}
